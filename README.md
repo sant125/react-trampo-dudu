@@ -3,7 +3,7 @@
 ## Informações do Aluno
 **Nome:** Santiago Paiva
 **Curso:** Sistemas de Informação
-**Período:** 5º Período
+**Período:** 6º Período
 **Disciplina:** Programação para Dispositivos Móveis
 
 ## Descrição do Projeto
